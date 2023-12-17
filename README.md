@@ -8,3 +8,5 @@ From dark modes that reduce eye strain during those late-night coding sessions t
 
 ## My Favourite Theme
 My favourite theme is monokai
+
+![](https://github.com/Lawrence-le/Changing_Jupyter_Notebook_Theme/blob/main/tutorial%20changing%20themes%20for%20juypter%20notebook.jpg)
